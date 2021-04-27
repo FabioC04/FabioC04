@@ -9,4 +9,6 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on SmartAnalytics and SmartBreak.
 - 🌱 I’m currently learning C++, HTML and PHP.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiCubicFiberanuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CubicFiber&hide=issues,prsshow_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CubicFiber&layout=compact)](https://github.com/CubicFiber/github-readme-stats)

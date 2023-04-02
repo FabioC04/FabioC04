@@ -5,7 +5,4 @@
 
 Here are some ideas to get you started:-->
 
-- 👀 I’m interested in programming languages and SocialMedia marketing.
-- 🌱 I’m currently learning C++, HTML, PHP, Java and JS.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioC04&hide=issues,prsshow_icons=true)
+- 👀 https://fabio.wearethedevelopers.com
